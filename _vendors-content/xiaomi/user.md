@@ -1,3 +1,4 @@
+free Fri 
 ---
 manufacturer: 
     - xiaomi
